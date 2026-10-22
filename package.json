@@ -1,0 +1,9 @@
+{
+  "name": "dota-bracket",
+  "private": true,
+  "description": "Турнирная сетка Dota 2 (статический сайт для GitHub Pages)",
+  "scripts": {
+    "test": "node --test tests/",
+    "start": "python -m http.server 8765"
+  }
+}
